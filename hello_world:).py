@@ -1,6 +1,6 @@
 name = input("Enter your name: ")
 age = input("Enter your age: ")
-is_artsy = input ("Enter your opinion")
+is_artsy = input ("Enter your opinion: ")
 phillip = "dumb"
 
 if name.lower() == "phillip":
